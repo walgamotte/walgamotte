@@ -22,7 +22,7 @@ I'm a Informational Technology professional with a passion for creating meaningf
 
 ### Project 1: OSCAL
 *Python script to query and display security controls from a configurable OSCAL NIST control catalog.*
-- 🔗 [Repository](link)
+- 🔗 [Repository]()
 - ⭐ Key features: simplified referencing control details, uses a configurable online OSCAL catalog, so results are always up-to-date, eliminate the need to localy store or read flat files to quickly reference security contols. It can be used with a company or personal security control catalog in JSON format.
 
 ### Project 2: Stock Checker
@@ -59,7 +59,7 @@ I'm a Informational Technology professional with a passion for creating meaningf
 
 I'm always open to collaboration, learning opportunities, and discussing interesting ideas. Feel free to reach out:
 
-- 💼 [LinkedIn](add-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-walgamotte-8376423a4)
 - 📧 Email: Walgamotte@proton.me
 - 🌐 Website: https://github.com/walgamotte/Pro-Tech/blob/main/README.md
 
