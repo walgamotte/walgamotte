@@ -32,7 +32,7 @@ I'm a Informational Technology professional with a passion for creating meaningf
 
 ### Project 3: Pro-Tech Onsite Tech Support
 *Independent Consultant, Freelance company website*
-- 🔗 [Repository](link)
+- 🔗 [Repository](https://github.com/walgamotte/Pro-Tech/blob/main/README.md)
 - ⭐ Key features: Clean, displays company; logos, business card, marketing material, description, services, pricing structure, and contacts
 
 ### Project 3: Online Resume
@@ -61,7 +61,7 @@ I'm always open to collaboration, learning opportunities, and discussing interes
 
 - 💼 [LinkedIn](add-link)
 - 📧 Email: Walgamotte@proton.me
-- 🌐 Website: [add-link]
+- 🌐 Website: https://github.com/walgamotte/Pro-Tech/blob/main/README.md
 
 ---
 
