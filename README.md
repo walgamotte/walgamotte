@@ -6,14 +6,14 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 🚀 About Me
 
-I'm a Informational Technology Professional with a passion for creating meaningful software and collaborating with talented teams. I believe in clean code, continuous learning, and solving problems through elegant design.
+I'm a Informational Technology professional with a passion for creating meaningful software and collaborating with talented teams. I believe in clean code, continuous learning, and solving problems through elegant design.
 
 ---
 
 ## 💼 Skills & Expertise
 
 - **Languages:** Python, BASH, Powershell, C++
-- **Frameworks & Tools:** [Add your tech stack]
+- **Frameworks & Tools:** NIST, Python/JSON data analytics
 - **Specializations:** Cybersecurity, Digital Security & Privacy
 
 ---
