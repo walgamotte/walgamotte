@@ -65,7 +65,7 @@ I'm always open to collaboration, learning opportunities, and discussing interes
 
 ---
 
-## 📈 Fun Facts
+## 📈 CLI Reference
 
 ---
 
