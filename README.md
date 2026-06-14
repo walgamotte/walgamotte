@@ -22,12 +22,12 @@ I'm a Informational Technology professional with a passion for creating meaningf
 
 ### Project 1: OSCAL
 *Python script to query and display security controls from a configurable OSCAL NIST control catalog.*
-- 🔗 [Repository]()
+- 🔗 [Repository](https://github.com/walgamotte/GRC)
 - ⭐ Key features: simplified referencing control details, uses a configurable online OSCAL catalog, so results are always up-to-date, eliminate the need to localy store or read flat files to quickly reference security contols. It can be used with a company or personal security control catalog in JSON format.
 
 ### Project 2: Stock Checker
 *Python script to check/query a stock ticker symbol*
-- 🔗 [Repository](link)
+- 🔗 [Repository](https://github.com/walgamotte/Misc)
 - ⭐ Key features: Fast and simple stock symbol query tool
 
 ### Project 3: Pro-Tech Onsite Tech Support
@@ -37,7 +37,7 @@ I'm a Informational Technology professional with a passion for creating meaningf
 
 ### Project 3: Online Resume
 *My professional resume/cv*
-- 🔗 [Repository](link)
+- 🔗 [Repository](https://github.com/walgamotte/Resume)
 - ⭐ Key features: Clean design, Career Background, written to communicate my abilities without revealing company sensitive information.
 
 ---
