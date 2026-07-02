@@ -59,7 +59,6 @@ I'm a Informational Technology professional with a passion for creating meaningf
 
 I'm always open to collaboration, learning opportunities, and discussing interesting ideas. Feel free to reach out:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-walgamotte-8376423a4)
 - 📧 Email: Walgamotte@proton.me
 - 🌐 Website: https://github.com/walgamotte/Pro-Tech/blob/main/README.md
 
